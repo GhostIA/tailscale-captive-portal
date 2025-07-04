@@ -1,0 +1,129 @@
+{
+    "devices": [
+        {
+            "addresses": [
+                "100.81.212.64",
+                "fd7a:115c:a1e0::a201:d442"
+            ],
+            "authorized": true,
+            "blocksIncomingConnections": false,
+            "clientVersion": "1.84.0-t160c11f37-gbf6042458",
+            "created": "2025-06-17T00:03:46Z",
+            "expires": "2025-12-14T00:03:46Z",
+            "hostname": "exit-node-ap1",
+            "id": "4484525258269270",
+            "isExternal": false,
+            "keyExpiryDisabled": false,
+            "lastSeen": "2025-06-28T11:09:10Z",
+            "machineKey": "mkey:3d034eceec9d23d813d828403f3dc1b854e79cf61942e46457fd85530af3a802",
+            "name": "exit-node-ap1.tail9d35ca.ts.net",
+            "nodeId": "nbhCYhs32c11CNTRL",
+            "nodeKey": "nodekey:cfeb73235835326f8512084c0c53017d47beffecc8b55082020b0776a291d43f",
+            "os": "linux",
+            "tailnetLockError": "",
+            "tailnetLockKey": "nlpub:95b255248acb9e2cbca47aea563351f52fcac87b6f9dcf0b92ee1276e2ef5bce",
+            "updateAvailable": false,
+            "user": "sferenczi5676@gmail.com"
+        },
+        {
+            "addresses": [
+                "100.124.41.18",
+                "fd7a:115c:a1e0::b101:2914"
+            ],
+            "authorized": true,
+            "blocksIncomingConnections": false,
+            "clientVersion": "1.84.0-t160c11f37-gbf6042458",
+            "created": "2025-06-17T00:03:40Z",
+            "expires": "2025-12-14T00:03:40Z",
+            "hostname": "exit-node-eu2",
+            "id": "6049473683894705",
+            "isExternal": false,
+            "keyExpiryDisabled": false,
+            "lastSeen": "2025-06-28T11:09:10Z",
+            "machineKey": "mkey:e71333fbc2e184dab8a4b53a635e4bc70a77191d2b7f043de715a2fb215a8924",
+            "name": "exit-node-eu2.tail9d35ca.ts.net",
+            "nodeId": "ngknz6RpEp11CNTRL",
+            "nodeKey": "nodekey:6317d111acc086d7ec2c4d61defa05915099e89673fcae1fc1912e61b1bc2911",
+            "os": "linux",
+            "tailnetLockError": "",
+            "tailnetLockKey": "nlpub:2d77421ece351141baad854738e56fe65863ce7d712c32f8dfe74781aba84c48",
+            "updateAvailable": false,
+            "user": "sferenczi5676@gmail.com"
+        },
+        {
+            "addresses": [
+                "100.80.235.19",
+                "fd7a:115c:a1e0::ec01:eb19"
+            ],
+            "authorized": true,
+            "blocksIncomingConnections": false,
+            "clientVersion": "1.84.0-t160c11f37-gbf6042458",
+            "created": "2025-06-17T00:03:46Z",
+            "expires": "2025-12-14T00:03:46Z",
+            "hostname": "exit-node-eu3",
+            "id": "4106116292228588",
+            "isExternal": false,
+            "keyExpiryDisabled": false,
+            "lastSeen": "2025-06-28T11:09:10Z",
+            "machineKey": "mkey:2714bd9a3ef2bfb220937c54d5e09684dd5604022e869bf409ee7fc969b3530a",
+            "name": "exit-node-eu3.tail9d35ca.ts.net",
+            "nodeId": "noCZ1Kif4Z11CNTRL",
+            "nodeKey": "nodekey:48bfbd2dd2f6d4bd580dc3aa653d8042b6f0072593a347a79275b473ec50eb12",
+            "os": "linux",
+            "tailnetLockError": "",
+            "tailnetLockKey": "nlpub:4130b66cafa1689f2542dd44ed8df7af0e0837960103c870dbf6cfb3e60b865c",
+            "updateAvailable": false,
+            "user": "sferenczi5676@gmail.com"
+        },
+        {
+            "addresses": [
+                "100.73.196.58",
+                "fd7a:115c:a1e0::7701:c43e"
+            ],
+            "authorized": true,
+            "blocksIncomingConnections": false,
+            "clientVersion": "1.84.0-t160c11f37-gbf6042458",
+            "created": "2025-06-17T00:03:46Z",
+            "expires": "2025-12-14T00:03:46Z",
+            "hostname": "exit-node-na2",
+            "id": "2782680840262971",
+            "isExternal": false,
+            "keyExpiryDisabled": false,
+            "lastSeen": "2025-06-28T11:09:10Z",
+            "machineKey": "mkey:3529305d6e21a36bf9c9f79238e6a2cd0d1f5f52e1ff276d284398398ba8b828",
+            "name": "exit-node-na2.tail9d35ca.ts.net",
+            "nodeId": "nxZe1pJHjN11CNTRL",
+            "nodeKey": "nodekey:7e43f984986f1b181de81c9ea5333c32ca1366993b0eb16b53754c5d7749c439",
+            "os": "linux",
+            "tailnetLockError": "",
+            "tailnetLockKey": "nlpub:8b3ce22b7ad349e4a71f87711d2867a69b2001ad3a63c693dc9d5faeb8a6b182",
+            "updateAvailable": false,
+            "user": "sferenczi5676@gmail.com"
+        },
+        {
+            "addresses": [
+                "100.123.140.70",
+                "fd7a:115c:a1e0::2901:8c47"
+            ],
+            "authorized": true,
+            "blocksIncomingConnections": false,
+            "clientVersion": "1.84.0-t160c11f37-gbf6042458",
+            "created": "2025-06-28T03:46:42Z",
+            "expires": "2025-12-25T03:46:42Z",
+            "hostname": "northernairtemp",
+            "id": "6500968564864368",
+            "isExternal": false,
+            "keyExpiryDisabled": false,
+            "lastSeen": "2025-06-28T11:09:10Z",
+            "machineKey": "mkey:dd9cc3f6234eb9853bdc2ab592791ee1232b8cf98524d552cc3681b00745882c",
+            "name": "northernairtemp.tail9d35ca.ts.net",
+            "nodeId": "ndbFZPRJms11CNTRL",
+            "nodeKey": "nodekey:85a775db46c0f9ce5e8c456dc1d6038fa75e052bbb8ed51d8ef6437d29bb8c45",
+            "os": "linux",
+            "tailnetLockError": "",
+            "tailnetLockKey": "nlpub:6c4467bea9b51a324a1e92383897531a6df65b6be084d5e71320c39a4a501c6c",
+            "updateAvailable": false,
+            "user": "sferenczi5676@gmail.com"
+        }
+    ]
+}
